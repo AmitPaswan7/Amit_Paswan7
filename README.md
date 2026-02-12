@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with optimizing performance and scaling apps.
 
-- 💬 Ask me about JavaScript frameworks or database management.
+- 💬 Ask me about JavaScript frameworks or database management.**amitkpaswan7@gmail.com**
 
 - ⚡ Fun fact: I once built a complete app in just 24 hours during a hackathon! **ImCrazy😂**
 
